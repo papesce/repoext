@@ -24,3 +24,8 @@ git clone https://github.com/etceteradesign/website.git
 ## React Spotify
 Sample react-redux implementatino
 git clone https://github.com/Pau1fitz/react-spotify.git
+
+
+## React-Redux Reddit
+Sample react-redux reddit app
+git clone https://github.com/mrkipling/snooflaps.git
